@@ -1,17 +1,17 @@
 related_posts: 3
-title: Prodotti Digitali
+title: Scuola Lumen
 baseurl: "/corsi"
 url: "https://cialdecompatibili-netizen.github.io"
 email: ""
-description: "Prodotti Digitali: template di siti, plugin, fogli Excel, modelli di testi, prompt Claude, workflow n8n e guide. Pre-ordina senza pagamento anticipato."
-footer_text: "&copy; 2026 Prodotti Digitali"
+description: "Scuola Lumen: corsi online di business, sviluppo web, AI, freelance, finanza, design, lingue e fitness. Pre-ordina senza pagamento anticipato."
+footer_text: "&copy; 2026 Scuola Lumen"
 minimal_mistakes_skin: default
 search: true
 
 # SEO globale
 author:
-  name: "Prodotti Digitali"
-  bio: "Template, plugin, fogli Excel, testi, prompt, workflow n8n e guide. Pre-ordina il tuo prodotto."
+  name: "Scuola Lumen"
+  bio: "Corsi online di business, sviluppo, AI, lingue e altro. Pre-ordina il tuo corso."
   links:
     - label: "Scrivici"
       icon: "fas fa-fw fa-envelope"

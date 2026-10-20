@@ -1,14 +1,14 @@
 [
   {
-    "nome": "template",
-    "descrizione": "Template di siti Jekyll pronti per attivita' italiane"
-  },
-  {
     "nome": "guide",
-    "descrizione": "Ebook e guide pratiche su siti, automazioni e prodotti digitali"
+    "descrizione": "Guide e consigli per scegliere e seguire un corso online"
   },
   {
-    "nome": "automazioni",
-    "descrizione": "Workflow n8n, prompt e strumenti per risparmiare tempo"
+    "nome": "consigli",
+    "descrizione": "Metodi di studio e abitudini"
+  },
+  {
+    "nome": "novita",
+    "descrizione": "Nuovi corsi e aggiornamenti"
   }
 ]

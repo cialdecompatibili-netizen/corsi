@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "Contatti"
-seo_title: "Contatti | Prodotti Digitali"
-seo_description: "Scrivici cosa ti serve o quale prodotto cerchi: ti rispondiamo entro 24 ore, festivi esclusi."
+seo_title: "Contatti | Scuola Lumen"
+seo_description: "Scrivici quale corso ti interessa o cosa vuoi imparare: ti rispondiamo entro 24 ore, festivi esclusi."
 permalink: /contatti/
 ---
 
@@ -17,27 +17,27 @@ permalink: /contatti/
   accetti il dominio di questo sito (campo "sito" = location.hostname).
 {%- endcomment -%}
 
-<p class="cf-intro">Dicci quale prodotto ti serve o cosa cerchi: ti rispondiamo entro 24 ore, festivi esclusi.</p>
+<p class="cf-intro">Dicci quale corso ti interessa o cosa vuoi imparare: ti rispondiamo entro 24 ore, festivi esclusi.</p>
 
 <style>
 .cf-wrap,.cf-intro{max-width:520px;margin-left:auto;margin-right:auto}
 .cf-intro{text-align:left;box-sizing:border-box;padding:0 29px;margin-bottom:1.5rem}
-.cf-form{padding:28px;border:1px solid rgba(0,0,0,.12);border-radius:12px;background:#fffdf5}
+.cf-form{padding:28px;border:1px solid rgba(0,0,0,.12);border-radius:12px;background:#f9fbff}
 .cf-form .cf-campo{margin:0 0 1.1rem}
 .cf-form label{display:block;width:100%;margin:0 0 .4rem;font-weight:600;text-align:left}
 .cf-form input[type=text],.cf-form input[type=email],.cf-form textarea{display:block;width:100%;box-sizing:border-box;margin:0;padding:.75rem .9rem;font:inherit;font-size:1rem;line-height:1.4;color:inherit;background:#fff;border:1px solid rgba(0,0,0,.2);border-radius:8px}
 .cf-form ::placeholder{opacity:.5}
 .cf-form textarea{min-height:9rem;resize:vertical}
-.cf-form input:focus,.cf-form textarea:focus{outline:2px solid var(--t-accent,#d9480f);outline-offset:1px}
-.cf-form .cf-btn{display:block;width:100%;margin:1.5rem 0 0;padding:1rem 1.5rem;border:0;border-radius:999px;background:var(--t-accent,#d9480f);color:#fff;font-size:1.1rem;font-weight:700;letter-spacing:.01em;cursor:pointer;box-shadow:0 6px 18px color-mix(in srgb,var(--t-accent,#d9480f) 38%,transparent);transition:transform .15s ease,box-shadow .15s ease,filter .15s ease}
+.cf-form input:focus,.cf-form textarea:focus{outline:2px solid var(--t-accent,#2f4cc0);outline-offset:1px}
+.cf-form .cf-btn{display:block;width:100%;margin:1.5rem 0 0;padding:1rem 1.5rem;border:0;border-radius:999px;background:var(--t-accent,#2f4cc0);color:#fff;font-size:1.1rem;font-weight:700;letter-spacing:.01em;cursor:pointer;box-shadow:0 6px 18px color-mix(in srgb,var(--t-accent,#2f4cc0) 38%,transparent);transition:transform .15s ease,box-shadow .15s ease,filter .15s ease}
 .cf-form .cf-btn:hover{transform:translateY(-2px);filter:brightness(1.08)}
 .cf-form .cf-btn:active{transform:translateY(0)}
-.cf-form .cf-btn:focus-visible{outline:3px solid var(--t-accent,#d9480f);outline-offset:3px}
+.cf-form .cf-btn:focus-visible{outline:3px solid var(--t-accent,#2f4cc0);outline-offset:3px}
 .cf-form .cf-btn:disabled{opacity:.65;cursor:progress;transform:none;box-shadow:none}
 @media (prefers-reduced-motion:reduce){.cf-form .cf-btn{transition:none}.cf-form .cf-btn:hover{transform:none}}
 .cf-nota{margin:.8rem 0 0;font-size:.85rem;opacity:.7;text-align:center}
 /* Esito = messaggio sotto il pulsante, sparisce da solo dopo 4 secondi (vedi mostra() nello script) */
-#cf-esito{display:none;margin:1rem 0 0;padding:.8rem 1rem;border-radius:10px;background:var(--t-accent,#d9480f);color:#fff;font-weight:600;text-align:center}
+#cf-esito{display:none;margin:1rem 0 0;padding:.8rem 1rem;border-radius:10px;background:var(--t-accent,#2f4cc0);color:#fff;font-weight:600;text-align:center}
 #cf-esito.cf-visibile{display:block}
 #cf-esito.cf-errore{background:#b00020}
 </style>
@@ -53,8 +53,8 @@ permalink: /contatti/
     <input type="email" id="cf-email" name="email" maxlength="150" required autocomplete="email" placeholder="nome@azienda.it">
   </div>
   <div class="cf-campo">
-    <label for="cf-msg">Cosa ti serve?</label>
-    <textarea id="cf-msg" name="messaggio" rows="5" maxlength="3000" required placeholder="Esempio: vorrei il template per il sito del mio ristorante."></textarea>
+    <label for="cf-msg">Cosa vuoi imparare?</label>
+    <textarea id="cf-msg" name="messaggio" rows="5" maxlength="3000" required placeholder="Esempio: vorrei sapere a chi e' adatto il corso di Python."></textarea>
   </div>
   <div style="position:absolute;left:-9999px;height:0;overflow:hidden" aria-hidden="true">
     <label for="cf-web">Non compilare</label>

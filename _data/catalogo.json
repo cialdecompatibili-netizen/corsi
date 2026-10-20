@@ -1,786 +1,376 @@
 {
-    "_nota":  "PRODOTTI DIGITALI (pre-ordine, nessun pagamento). Prezzi in centesimi. Fonte UNICA di /negozio/ e delle pagine prodotto. L\u0027id \"categoria\" e\u0027 riservato.",
-    "categorie":  [
-                      {
-                          "id":  "planner",
-                          "nome":  "Planner e agende stampabili",
-                          "icona":  "📅"
-                      },
-                      {
-                          "id":  "canva",
-                          "nome":  "Template Canva modificabili",
-                          "icona":  "🎨"
-                      },
-                      {
-                          "id":  "notion",
-                          "nome":  "Template Notion",
-                          "icona":  "🧠"
-                      },
-                      {
-                          "id":  "wallart",
-                          "nome":  "Stampe da parete (wall art)",
-                          "icona":  "🖼"
-                      },
-                      {
-                          "id":  "clipart",
-                          "nome":  "SVG, clipart e adesivi digitali",
-                          "icona":  "✂"
-                      },
-                      {
-                          "id":  "scuola",
-                          "nome":  "Materiale didattico e bambini",
-                          "icona":  "📚"
-                      },
-                      {
-                          "id":  "lavoro",
-                          "nome":  "CV, lettere e portfolio",
-                          "icona":  "💼"
-                      },
-                      {
-                          "id":  "social",
-                          "nome":  "Pacchetti social media",
-                          "icona":  "📱"
-                      },
-                      {
-                          "id":  "eventi",
-                          "nome":  "Inviti e feste",
-                          "icona":  "💌"
-                      },
-                      {
-                          "id":  "sheets",
-                          "nome":  "Budget e tracker Google Sheets",
-                          "icona":  "💰"
-                      },
-                      {
-                          "id":  "template",
-                          "nome":  "Template siti Jekyll",
-                          "icona":  "🌐"
-                      },
-                      {
-                          "id":  "plugin",
-                          "nome":  "Moduli e plugin PHP",
-                          "icona":  "🧩"
-                      },
-                      {
-                          "id":  "testi",
-                          "nome":  "Modelli di testi",
-                          "icona":  "📄"
-                      },
-                      {
-                          "id":  "excel",
-                          "nome":  "Fogli Excel pronti",
-                          "icona":  "📊"
-                      },
-                      {
-                          "id":  "prompt",
-                          "nome":  "Prompt e skill Claude",
-                          "icona":  "🤖"
-                      },
-                      {
-                          "id":  "n8n",
-                          "nome":  "Workflow n8n",
-                          "icona":  "⚙️"
-                      },
-                      {
-                          "id":  "guide",
-                          "nome":  "Ebook e guide",
-                          "icona":  "📘"
-                      },
-                      {
-                          "id":  "stampabili",
-                          "nome":  "Moduli e checklist stampabili",
-                          "icona":  "📄"
-                      },
-                      {
-                          "id":  "bundle",
-                          "nome":  "Kit completi a prezzo scontato",
-                          "icona":  "🎁"
-                      }
-                  ],
-    "prodotti":  [
-                     {
-                         "id":  "planner-annuale",
-                         "nome":  "Planner annuale stampabile 2027",
-                         "descrizione":  "Agenda con vista annuale, mensile, settimanale e giornaliera in PDF.",
-                         "categoria":  "planner",
-                         "icona":  "📅",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  990,
-                         "descrizione_completa":  "Agenda con vista annuale, mensile, settimanale e giornaliera in PDF.\nInclude PDF in formato A4 e A5, versione con link cliccabili per tablet, 12 mesi.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "habit-tracker",
-                         "nome":  "Habit tracker e diario delle abitudini",
-                         "descrizione":  "Tracker mensili e settimanali per costruire abitudini, da stampare o usare su iPad.",
-                         "categoria":  "planner",
-                         "icona":  "📅",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  690,
-                         "descrizione_completa":  "Tracker mensili e settimanali per costruire abitudini, da stampare o usare su iPad.\nInclude 30 pagine PDF, versione GoodNotes, istruzioni.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "meal-planner",
-                         "nome":  "Meal planner e lista della spesa",
-                         "descrizione":  "Pianifica i pasti della settimana e genera la lista della spesa.",
-                         "categoria":  "planner",
-                         "icona":  "📅",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  790,
-                         "descrizione_completa":  "Pianifica i pasti della settimana e genera la lista della spesa.\nInclude Pagine settimanali, lista spesa, ricettario vuoto, PDF A4 e A5.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "canva-instagram",
-                         "nome":  "Pack 30 post Instagram modificabili",
-                         "descrizione":  "30 modelli per post e storie da personalizzare in Canva con i tuoi colori.",
-                         "categoria":  "canva",
-                         "icona":  "🎨",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1490,
-                         "descrizione_completa":  "30 modelli per post e storie da personalizzare in Canva con i tuoi colori.\nInclude 30 post, 15 storie, guida ai font e ai colori.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "canva-brand-kit",
-                         "nome":  "Brand kit per piccole attivita",
-                         "descrizione":  "Logo base, palette, biglietti da visita e intestazioni modificabili.",
-                         "categoria":  "canva",
-                         "icona":  "🎨",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  2490,
-                         "descrizione_completa":  "Logo base, palette, biglietti da visita e intestazioni modificabili.\nInclude Kit Canva, palette, 3 abbinamenti di font, guida all uso.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "canva-menu",
-                         "nome":  "Menu per ristoranti e bar modificabile",
-                         "descrizione":  "Menu, carta dei vini e segnaposto da personalizzare in Canva.",
-                         "categoria":  "canva",
-                         "icona":  "🎨",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1290,
-                         "descrizione_completa":  "Menu, carta dei vini e segnaposto da personalizzare in Canva.\nInclude 8 modelli di menu, formati A4 e A5, versione stampa e web.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "notion-finanze",
-                         "nome":  "Notion: finanze personali",
-                         "descrizione":  "Dashboard per entrate, spese, risparmi e obiettivi.",
-                         "categoria":  "notion",
-                         "icona":  "🧠",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1290,
-                         "descrizione_completa":  "Dashboard per entrate, spese, risparmi e obiettivi.\nInclude Template Notion duplicabile, 6 database, video guida.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "notion-freelance",
-                         "nome":  "Notion: clienti e progetti per freelance",
-                         "descrizione":  "CRM, preventivi, progetti e fatture in un unico spazio Notion.",
-                         "categoria":  "notion",
-                         "icona":  "🧠",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1990,
-                         "descrizione_completa":  "CRM, preventivi, progetti e fatture in un unico spazio Notion.\nInclude Template Notion, 8 database, modelli di preventivo e fattura.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "notion-studio",
-                         "nome":  "Notion: pianificatore di studio",
-                         "descrizione":  "Calendario esami, appunti e tracker dello studio per studenti.",
-                         "categoria":  "notion",
-                         "icona":  "🧠",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  990,
-                         "descrizione_completa":  "Calendario esami, appunti e tracker dello studio per studenti.\nInclude Template Notion, tracker esami, pagina appunti, pomodoro.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "wallart-botanico",
-                         "nome":  "Set 6 stampe botaniche minimal",
-                         "descrizione":  "Sei stampe botaniche in stile minimal per salotto e camera.",
-                         "categoria":  "wallart",
-                         "icona":  "🖼",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  790,
-                         "descrizione_completa":  "Sei stampe botaniche in stile minimal per salotto e camera.\nInclude 6 file ad alta risoluzione, formati A4, A3, 30x40 e 50x70.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "wallart-citazioni",
-                         "nome":  "Set 8 stampe con citazioni",
-                         "descrizione":  "Otto stampe con frasi motivazionali per casa e ufficio.",
-                         "categoria":  "wallart",
-                         "icona":  "🖼",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  790,
-                         "descrizione_completa":  "Otto stampe con frasi motivazionali per casa e ufficio.\nInclude 8 file PDF e PNG, 5 formati di stampa, istruzioni.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "wallart-cameretta",
-                         "nome":  "Stampe animali per cameretta",
-                         "descrizione":  "Set di stampe dolci per la cameretta, in toni neutri.",
-                         "categoria":  "wallart",
-                         "icona":  "🖼",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  890,
-                         "descrizione_completa":  "Set di stampe dolci per la cameretta, in toni neutri.\nInclude 6 stampe, formati A4 e A3, versione con nome personalizzabile.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "svg-natale",
-                         "nome":  "Pack SVG Natale per Cricut e Silhouette",
-                         "descrizione":  "Decorazioni e scritte natalizie da tagliare con la tua macchina.",
-                         "categoria":  "clipart",
-                         "icona":  "✂",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  990,
-                         "descrizione_completa":  "Decorazioni e scritte natalizie da tagliare con la tua macchina.\nInclude 60 file SVG, PNG e DXF, licenza d uso per piccoli prodotti.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "clipart-acquerello",
-                         "nome":  "Clipart acquerello fiori e foglie",
-                         "descrizione":  "Elementi PNG trasparenti per inviti, biglietti e grafiche.",
-                         "categoria":  "clipart",
-                         "icona":  "✂",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1290,
-                         "descrizione_completa":  "Elementi PNG trasparenti per inviti, biglietti e grafiche.\nInclude 80 elementi PNG 300 dpi, licenza commerciale semplice.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "adesivi-planner",
-                         "nome":  "Adesivi digitali per planner",
-                         "descrizione":  "Adesivi PNG da usare in GoodNotes e Notability.",
-                         "categoria":  "clipart",
-                         "icona":  "✂",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  790,
-                         "descrizione_completa":  "Adesivi PNG da usare in GoodNotes e Notability.\nInclude 200 adesivi PNG, file per GoodNotes, istruzioni.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "schede-matematica",
-                         "nome":  "Schede di matematica per la primaria",
-                         "descrizione":  "Esercizi stampabili su addizioni, tabelline e problemi.",
-                         "categoria":  "scuola",
-                         "icona":  "📚",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  990,
-                         "descrizione_completa":  "Esercizi stampabili su addizioni, tabelline e problemi.\nInclude 60 schede PDF con soluzioni, livelli da prima a quinta.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "flashcard-inglese",
-                         "nome":  "Flashcard di inglese per bambini",
-                         "descrizione":  "Carte illustrate con le parole base, da stampare e ritagliare.",
-                         "categoria":  "scuola",
-                         "icona":  "📚",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  790,
-                         "descrizione_completa":  "Carte illustrate con le parole base, da stampare e ritagliare.\nInclude 150 flashcard in PDF, giochi di abbinamento, guida per i genitori.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "attivita-bambini",
-                         "nome":  "Pacchetto attivita e giochi per bambini",
-                         "descrizione":  "Labirinti, colorare, cruciverba e giochi da fare in viaggio o a casa.",
-                         "categoria":  "scuola",
-                         "icona":  "📚",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1290,
-                         "descrizione_completa":  "Labirinti, colorare, cruciverba e giochi da fare in viaggio o a casa.\nInclude 100 pagine PDF per 4-10 anni, versione A4 e Letter.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "cv-moderni",
-                         "nome":  "5 modelli di CV moderni",
-                         "descrizione":  "Cinque CV modificabili in Word e Canva, pensati per i selezionatori.",
-                         "categoria":  "lavoro",
-                         "icona":  "💼",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1290,
-                         "descrizione_completa":  "Cinque CV modificabili in Word e Canva, pensati per i selezionatori.\nInclude 5 modelli Word e Canva, guida alla compilazione, esempi.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "lettere-candidatura",
-                         "nome":  "Lettere di presentazione pronte",
-                         "descrizione":  "Modelli di lettera per vari settori, da adattare in pochi minuti.",
-                         "categoria":  "lavoro",
-                         "icona":  "💼",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  690,
-                         "descrizione_completa":  "Modelli di lettera per vari settori, da adattare in pochi minuti.\nInclude 15 lettere Word, guida alla personalizzazione.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "portfolio-freelance",
-                         "nome":  "Template portfolio per freelance",
-                         "descrizione":  "Pagina portfolio pronta da compilare con i tuoi lavori.",
-                         "categoria":  "lavoro",
-                         "icona":  "💼",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1990,
-                         "descrizione_completa":  "Pagina portfolio pronta da compilare con i tuoi lavori.\nInclude Template Canva e sito Jekyll, guida alla pubblicazione.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "calendario-editoriale",
-                         "nome":  "Calendario editoriale social 12 mesi",
-                         "descrizione":  "Piano dei contenuti con idee per ogni settimana dell anno.",
-                         "categoria":  "social",
-                         "icona":  "📱",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1490,
-                         "descrizione_completa":  "Piano dei contenuti con idee per ogni settimana dell anno.\nInclude Foglio Excel e Google Sheets, 365 idee, festivita e ricorrenze.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "caption-pack",
-                         "nome":  "365 caption e idee di post",
-                         "descrizione":  "Una caption al giorno per un anno, divise per tema.",
-                         "categoria":  "social",
-                         "icona":  "📱",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  990,
-                         "descrizione_completa":  "Una caption al giorno per un anno, divise per tema.\nInclude 365 caption, 12 temi, hashtag consigliati, PDF e foglio.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "reels-script",
-                         "nome":  "50 script per video brevi e Reels",
-                         "descrizione":  "Copioni pronti per video brevi, con apertura, corpo e invito all azione.",
-                         "categoria":  "social",
-                         "icona":  "📱",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1290,
-                         "descrizione_completa":  "Copioni pronti per video brevi, con apertura, corpo e invito all azione.\nInclude 50 script, schema di montaggio, esempi per vari settori.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "invito-matrimonio",
-                         "nome":  "Set inviti e partecipazioni matrimonio",
-                         "descrizione":  "Invito, risposta, menu e segnaposto coordinati e modificabili.",
-                         "categoria":  "eventi",
-                         "icona":  "💌",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1990,
-                         "descrizione_completa":  "Invito, risposta, menu e segnaposto coordinati e modificabili.\nInclude 8 pezzi in Canva e PDF, 3 palette, guida alla stampa.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "baby-shower",
-                         "nome":  "Kit baby shower e nascita",
-                         "descrizione":  "Inviti, giochi e decorazioni stampabili per festeggiare l arrivo di un bimbo.",
-                         "categoria":  "eventi",
-                         "icona":  "💌",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1290,
-                         "descrizione_completa":  "Inviti, giochi e decorazioni stampabili per festeggiare l arrivo di un bimbo.\nInclude 12 file PDF, inviti modificabili, giochi, cartelli.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "compleanno-kit",
-                         "nome":  "Kit festa di compleanno stampabile",
-                         "descrizione":  "Inviti, topper e decorazioni modificabili per feste di ogni eta.",
-                         "categoria":  "eventi",
-                         "icona":  "💌",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  990,
-                         "descrizione_completa":  "Inviti, topper e decorazioni modificabili per feste di ogni eta.\nInclude 10 file PDF e Canva, formati A4, istruzioni.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "sheets-budget",
-                         "nome":  "Budget familiare Google Sheets",
-                         "descrizione":  "Entrate, uscite e risparmi con grafici automatici.",
-                         "categoria":  "sheets",
-                         "icona":  "💰",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1290,
-                         "descrizione_completa":  "Entrate, uscite e risparmi con grafici automatici.\nInclude Foglio Google Sheets, 12 mesi, grafici, guida.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "sheets-viaggi",
-                         "nome":  "Pianificatore viaggi e spese",
-                         "descrizione":  "Itinerario, budget e valigia in un unico foglio.",
-                         "categoria":  "sheets",
-                         "icona":  "💰",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  890,
-                         "descrizione_completa":  "Itinerario, budget e valigia in un unico foglio.\nInclude Foglio Google Sheets, divisione spese tra amici, lista valigia.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "sheets-freelance",
-                         "nome":  "Tracker entrate e spese freelance",
-                         "descrizione":  "Fatture, entrate, spese e tasse da accantonare.",
-                         "categoria":  "sheets",
-                         "icona":  "💰",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1490,
-                         "descrizione_completa":  "Fatture, entrate, spese e tasse da accantonare.\nInclude Foglio Google Sheets ed Excel, riepilogo mensile, scadenze.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "template-artigiani",
-                         "nome":  "Template sito per artigiani",
-                         "descrizione":  "Sito Jekyll pronto per idraulici, elettricisti, imbianchini e imprese edili.",
-                         "categoria":  "template",
-                         "icona":  "🔨",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  4900,
-                         "descrizione_completa":  "Sito Jekyll pronto per idraulici, elettricisti, imbianchini e imprese edili.\nPacchetto zip con home, servizi, lavori svolti, contatti e pannello admin per modificare i testi senza toccare il codice. Pubblicabile gratis su GitHub Pages.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "template-ristoranti",
-                         "nome":  "Template sito per ristoranti",
-                         "descrizione":  "Sito Jekyll con menu, orari, galleria e prenotazione per ristoranti e bar.",
-                         "categoria":  "template",
-                         "icona":  "🍽️",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  4900,
-                         "descrizione_completa":  "Sito Jekyll con menu, orari, galleria e prenotazione per ristoranti e bar.\nPacchetto zip con pagine pronte, menu modificabile da admin e mappa. Pubblicabile gratis su GitHub Pages.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "carta-addon",
-                         "nome":  "Add-on per CartaCMS",
-                         "descrizione":  "Moduli aggiuntivi per CartaCMS: gallerie, form avanzati e backup.",
-                         "categoria":  "plugin",
-                         "icona":  "🧩",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  2900,
-                         "descrizione_completa":  "Moduli aggiuntivi per CartaCMS: gallerie, form avanzati e backup.\nPlugin PHP con istruzioni di installazione per il tuo CartaCMS. Aggiornamenti inclusi per un anno.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "inpost-locker",
-                         "nome":  "Modulo InPost Locker",
-                         "descrizione":  "Scelta del locker InPost al checkout per il tuo negozio online.",
-                         "categoria":  "plugin",
-                         "icona":  "📦",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  3900,
-                         "descrizione_completa":  "Scelta del locker InPost al checkout per il tuo negozio online.\nModulo PHP con ricerca dei locker vicini e salvataggio del punto scelto nell\u0027ordine. Istruzioni di installazione incluse.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "preventivi-contratti",
-                         "nome":  "Pacchetto preventivi e contratti tipo",
-                         "descrizione":  "Modelli Word e PDF di preventivi e contratti per professionisti italiani.",
-                         "categoria":  "testi",
-                         "icona":  "📝",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  2900,
-                         "descrizione_completa":  "Modelli Word e PDF di preventivi e contratti per professionisti italiani.\nFile modificabili da compilare con i tuoi dati. Sono modelli generici e non sostituiscono la consulenza di un professionista: fai controllare i testi legali prima di usarli.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "solleciti-checklist",
-                         "nome":  "Lettere di sollecito e checklist",
-                         "descrizione":  "Lettere di sollecito pagamento e checklist operative pronte da personalizzare.",
-                         "categoria":  "testi",
-                         "icona":  "✉️",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1900,
-                         "descrizione_completa":  "Lettere di sollecito pagamento e checklist operative pronte da personalizzare.\nFile Word e PDF, con toni diversi dal promemoria gentile alla diffida. Modelli generici: per i casi importanti chiedi a un professionista.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "excel-forfettario",
-                         "nome":  "Foglio Excel regime forfettario",
-                         "descrizione":  "Calcolo di ricavi, imposta e contributi per partite IVA in regime forfettario.",
-                         "categoria":  "excel",
-                         "icona":  "🧮",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1900,
-                         "descrizione_completa":  "Calcolo di ricavi, imposta e contributi per partite IVA in regime forfettario.\nFoglio Excel con registro fatture, soglie e scadenzario. Le aliquote vanno verificate con il tuo commercialista.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "excel-condominio",
-                         "nome":  "Foglio Excel gestione condominio",
-                         "descrizione":  "Spese, millesimi, rate e scadenze del condominio in un unico file.",
-                         "categoria":  "excel",
-                         "icona":  "🏢",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  2900,
-                         "descrizione_completa":  "Spese, millesimi, rate e scadenze del condominio in un unico file.\nFoglio Excel con ripartizione per millesimi, estratto per condomino e scadenzario.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "prompt-immobiliare",
-                         "nome":  "Prompt e skill per agenti immobiliari",
-                         "descrizione":  "Raccolta di prompt e skill Claude per annunci, schede e risposte ai clienti.",
-                         "categoria":  "prompt",
-                         "icona":  "🏠",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1900,
-                         "descrizione_completa":  "Raccolta di prompt e skill Claude per annunci, schede e risposte ai clienti.\nFile pronti da copiare in Claude, con esempi d\u0027uso per il lavoro dell\u0027agente immobiliare.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "prompt-condominio",
-                         "nome":  "Prompt e skill per amministratori di condominio",
-                         "descrizione":  "Prompt e skill Claude per convocazioni, verbali e comunicazioni ai condomini.",
-                         "categoria":  "prompt",
-                         "icona":  "📋",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1900,
-                         "descrizione_completa":  "Prompt e skill Claude per convocazioni, verbali e comunicazioni ai condomini.\nFile pronti da usare in Claude, con esempi per l\u0027attivita\u0027 dell\u0027amministratore.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "n8n-preventivi",
-                         "nome":  "Workflow n8n preventivi via email",
-                         "descrizione":  "Automazione n8n: richiesta dal sito, preventivo generato e inviato via email.",
-                         "categoria":  "n8n",
-                         "icona":  "📨",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  2900,
-                         "descrizione_completa":  "Automazione n8n: richiesta dal sito, preventivo generato e inviato via email.\nFile JSON da importare nel tuo n8n, con istruzioni per collegare email e modulo del sito.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "n8n-lead",
-                         "nome":  "Workflow n8n raccolta lead",
-                         "descrizione":  "Automazione n8n: i contatti dal sito finiscono in un foglio e ti arriva l\u0027avviso.",
-                         "categoria":  "n8n",
-                         "icona":  "🎯",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  2400,
-                         "descrizione_completa":  "Automazione n8n: i contatti dal sito finiscono in un foglio e ti arriva l\u0027avviso.\nFile JSON da importare nel tuo n8n, con istruzioni passo passo.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "guida-sito-github",
-                         "nome":  "Guida: il sito per la tua attivita\u0027 con GitHub Pages",
-                         "descrizione":  "Ebook passo passo per pubblicare gratis il sito della tua attivita\u0027.",
-                         "categoria":  "guide",
-                         "icona":  "📘",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1500,
-                         "descrizione_completa":  "Ebook passo passo per pubblicare gratis il sito della tua attivita\u0027.\nPDF con repository, dominio, pagine e aggiornamenti spiegati senza gergo.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "guida-claude-code",
-                         "nome":  "Guida: creare prodotti digitali con Claude Code",
-                         "descrizione":  "Ebook pratico su come costruire e vendere prodotti digitali con Claude Code.",
-                         "categoria":  "guide",
-                         "icona":  "💡",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1500,
-                         "descrizione_completa":  "Ebook pratico su come costruire e vendere prodotti digitali con Claude Code.\nPDF con il metodo, esempi reali e una checklist di lancio.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "excel-affitti-brevi",
-                         "nome":  "Foglio Excel affitti brevi e B\u0026B",
-                         "descrizione":  "Prenotazioni, incassi, spese e tassa di soggiorno per chi affitta case vacanza e camere.",
-                         "categoria":  "excel",
-                         "icona":  "🏠",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1900,
-                         "descrizione_completa":  "Prenotazioni, incassi, spese e tassa di soggiorno per chi affitta case vacanza e camere.\nCalendario prenotazioni, ricavi per mese, costi di pulizia e commissioni dei portali, riepilogo annuale. Versione Excel e Google Sheets.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "excel-food-cost",
-                         "nome":  "Foglio Excel food cost e menu",
-                         "descrizione":  "Calcola il costo di ogni piatto, il margine e il prezzo di vendita giusto.",
-                         "categoria":  "excel",
-                         "icona":  "🍽️",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  2400,
-                         "descrizione_completa":  "Calcola il costo di ogni piatto, il margine e il prezzo di vendita giusto.\nRicettario con ingredienti e prezzi, food cost per piatto, margine e prezzo consigliato, analisi del menu. Versione Excel e Google Sheets.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "excel-cantiere",
-                         "nome":  "Foglio Excel preventivo e margine cantiere",
-                         "descrizione":  "Preventivo a voci, costi reali e margine di ogni lavoro per imprese edili e artigiani.",
-                         "categoria":  "excel",
-                         "icona":  "🚧",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  2900,
-                         "descrizione_completa":  "Preventivo a voci, costi reali e margine di ogni lavoro per imprese edili e artigiani.\nPreventivo per voci con stampa per il cliente, registro dei costi per cantiere, confronto tra preventivato e speso, margine finale. Versione Excel e Google Sheets.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "excel-magazzino",
-                         "nome":  "Foglio Excel magazzino e scorte",
-                         "descrizione":  "Carico, scarico e soglie di riordino per piccoli negozi e laboratori.",
-                         "categoria":  "excel",
-                         "icona":  "📦",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1900,
-                         "descrizione_completa":  "Carico, scarico e soglie di riordino per piccoli negozi e laboratori.\nAnagrafica articoli, movimenti di carico e scarico, giacenza automatica, avviso di riordino, valore del magazzino. Versione Excel e Google Sheets.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "stampabili-registro-temperature",
-                         "nome":  "Registri temperature e pulizie stampabili",
-                         "descrizione":  "Registri pronti da stampare per frigoriferi, congelatori e pulizie di bar e ristoranti.",
-                         "categoria":  "stampabili",
-                         "icona":  "🌡️",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1500,
-                         "descrizione_completa":  "Registri pronti da stampare per frigoriferi, congelatori e pulizie di bar e ristoranti.\nRegistro temperature giornaliero, piano di pulizia settimanale, registro ricezione merci, in PDF e Word modificabile. Modulistica di supporto: non sostituisce il manuale di autocontrollo della tua attivita\u0027.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "stampabili-checklist-cantiere",
-                         "nome":  "Checklist di cantiere stampabili",
-                         "descrizione":  "Verbale di consegna lavori, checklist giornaliera e collaudo finale per imprese e artigiani.",
-                         "categoria":  "stampabili",
-                         "icona":  "✅",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1200,
-                         "descrizione_completa":  "Verbale di consegna lavori, checklist giornaliera e collaudo finale per imprese e artigiani.\nChecklist di avvio, giornaliera e di chiusura lavori, verbale di consegna da far firmare al cliente, in PDF e Word modificabile.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "stampabili-moduli-bb",
-                         "nome":  "Moduli per B\u0026B e affittacamere stampabili",
-                         "descrizione":  "Scheda ospite, regolamento della casa, check-in e check-out e check-list pulizie.",
-                         "categoria":  "stampabili",
-                         "icona":  "🛏️",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  1200,
-                         "descrizione_completa":  "Scheda ospite, regolamento della casa, check-in e check-out e check-list pulizie.\nScheda ospite, regolamento della casa, modulo di check-in e check-out, check-list pulizie camera, in PDF e Word modificabile.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "template-parrucchieri",
-                         "nome":  "Template sito per parrucchieri e centri estetici",
-                         "descrizione":  "Sito Jekyll con listino, prenotazione, galleria prima e dopo e contatti.",
-                         "categoria":  "template",
-                         "icona":  "💇",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  4900,
-                         "descrizione_completa":  "Sito Jekyll con listino, prenotazione, galleria prima e dopo e contatti.\nPacchetto zip con home, listino servizi, galleria, contatti e pannello admin per modificare i testi senza toccare il codice. Pubblicabile gratis su GitHub Pages.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "template-bb",
-                         "nome":  "Template sito per B\u0026B e affittacamere",
-                         "descrizione":  "Sito Jekyll con camere, prezzi, galleria, dintorni e richiesta di disponibilita\u0027.",
-                         "categoria":  "template",
-                         "icona":  "🏨",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  4900,
-                         "descrizione_completa":  "Sito Jekyll con camere, prezzi, galleria, dintorni e richiesta di disponibilita\u0027.\nPacchetto zip con pagine camere, galleria, zona e contatti con richiesta di disponibilita\u0027, pannello admin incluso. Pubblicabile gratis su GitHub Pages.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "n8n-pack-artigiani",
-                         "nome":  "Pack n8n per artigiani (5 workflow)",
-                         "descrizione":  "Cinque automazioni pronte: preventivo, contatti, recensioni, promemoria appuntamenti e solleciti.",
-                         "categoria":  "n8n",
-                         "icona":  "⚙️",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  3900,
-                         "descrizione_completa":  "Cinque automazioni pronte: preventivo, contatti, recensioni, promemoria appuntamenti e solleciti.\nCinque workflow n8n in JSON con guida di installazione passo passo: preventivo via email, raccolta contatti, richiesta recensioni, promemoria appuntamenti, sollecito pagamenti.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "bundle-ristorante",
-                         "nome":  "Kit ristorante: sito, food cost e registri",
-                         "descrizione":  "Template sito, foglio food cost e registri temperature in un unico pacchetto.",
-                         "categoria":  "bundle",
-                         "icona":  "🍴",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  6900,
-                         "descrizione_completa":  "Template sito, foglio food cost e registri temperature in un unico pacchetto.\nInclude Template sito per ristoranti, Foglio Excel food cost e menu, Registri temperature e pulizie stampabili.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "bundle-artigiano",
-                         "nome":  "Kit artigiano: sito, preventivo e automazioni",
-                         "descrizione":  "Template sito, foglio cantiere, pack n8n e checklist di cantiere insieme.",
-                         "categoria":  "bundle",
-                         "icona":  "🛠️",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  8900,
-                         "descrizione_completa":  "Template sito, foglio cantiere, pack n8n e checklist di cantiere insieme.\nInclude Template sito per artigiani, Foglio Excel preventivo e margine cantiere, Pack n8n per artigiani, Checklist di cantiere stampabili.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     },
-                     {
-                         "id":  "bundle-bb",
-                         "nome":  "Kit B\u0026B: sito, foglio affitti e moduli",
-                         "descrizione":  "Template sito B\u0026B, foglio affitti brevi e moduli stampabili in un unico pacchetto.",
-                         "categoria":  "bundle",
-                         "icona":  "🏡",
-                         "tipo":  "digitale",
-                         "prezzo_centesimi":  6500,
-                         "descrizione_completa":  "Template sito B\u0026B, foglio affitti brevi e moduli stampabili in un unico pacchetto.\nInclude Template sito per B\u0026B, Foglio Excel affitti brevi e B\u0026B, Moduli per B\u0026B e affittacamere stampabili.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto e\u0027 pronto.",
-                         "immagine":  "",
-                         "visibile":  true
-                     }
-                 ]
+  "_nota": "SCUOLA LUMEN (corsi online remoti, DEMO, pre-ordine senza pagamento). Categorie in ORDINE DI PROFITTO. Prezzi in centesimi. Fonte UNICA di /negozio/ e delle pagine prodotto. L'id \"categoria\" e' riservato. Testi e dati di esempio: da verificare prima della vendita.",
+  "categorie": [
+    {
+      "id": "business-marketing",
+      "nome": "Business e marketing",
+      "icona": "💼"
+    },
+    {
+      "id": "sviluppo-software",
+      "nome": "Sviluppo software e web",
+      "icona": "💻"
+    },
+    {
+      "id": "ai-automazione",
+      "nome": "AI e automazione",
+      "icona": "🤖"
+    },
+    {
+      "id": "freelance-online",
+      "nome": "Freelance e lavoro online",
+      "icona": "🧭"
+    },
+    {
+      "id": "finanza-personale",
+      "nome": "Finanza personale",
+      "icona": "💶"
+    },
+    {
+      "id": "crescita-produttivita",
+      "nome": "Crescita e produttivita'",
+      "icona": "🎯"
+    },
+    {
+      "id": "design-creativita",
+      "nome": "Design e creativita'",
+      "icona": "🎨"
+    },
+    {
+      "id": "lingue",
+      "nome": "Lingue",
+      "icona": "🌍"
+    },
+    {
+      "id": "fitness-benessere",
+      "nome": "Fitness e allenamento",
+      "icona": "🏃"
+    }
+  ],
+  "prodotti": [
+    {
+      "id": "marketing-piccole-imprese",
+      "nome": "Marketing per piccole imprese",
+      "descrizione": "Dalla scelta del cliente ideale alle prime campagne, passo dopo passo.",
+      "categoria": "business-marketing",
+      "icona": "💼",
+      "tipo": "digitale",
+      "prezzo_centesimi": 29700,
+      "descrizione_completa": "Un percorso completo per chi gestisce una piccola attivita'.\nSi parte dal cliente ideale e dall'offerta, poi canali, messaggi, budget e misura dei risultati.\nVideo lezioni, schede da compilare e un piano di 90 giorni da adattare.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/marketing-piccole-imprese.svg",
+      "visibile": true
+    },
+    {
+      "id": "seo-contenuti",
+      "nome": "SEO e contenuti",
+      "descrizione": "Come farsi trovare su Google: ricerca delle parole, pagine e articoli.",
+      "categoria": "business-marketing",
+      "icona": "💼",
+      "tipo": "digitale",
+      "prezzo_centesimi": 19700,
+      "descrizione_completa": "Il corso spiega come scegliere le parole da cui farsi trovare e come scrivere pagine e articoli che rispondono davvero a chi cerca.\nInclude controlli tecnici di base e una scheda per pianificare i contenuti.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/seo-contenuti.svg",
+      "visibile": true
+    },
+    {
+      "id": "email-marketing",
+      "nome": "Email marketing che vende",
+      "descrizione": "Lista, newsletter e sequenze automatiche per restare in contatto con i clienti.",
+      "categoria": "business-marketing",
+      "icona": "💼",
+      "tipo": "digitale",
+      "prezzo_centesimi": 14700,
+      "descrizione_completa": "Come costruire una lista di contatti, scrivere newsletter utili e impostare sequenze automatiche di benvenuto.\nInclude modelli di email da adattare e una guida al rispetto delle regole sulla privacy.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/email-marketing.svg",
+      "visibile": true
+    },
+    {
+      "id": "sviluppo-web-completo",
+      "nome": "Sviluppo web: HTML, CSS e JavaScript",
+      "descrizione": "Costruire siti da zero con i tre linguaggi del web.",
+      "categoria": "sviluppo-software",
+      "icona": "💻",
+      "tipo": "digitale",
+      "prezzo_centesimi": 24700,
+      "descrizione_completa": "Il percorso parte dalle basi di HTML e CSS e arriva a JavaScript, con tre progetti da pubblicare online.\nOgni lezione ha esercizi con soluzione. Non serve esperienza precedente.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/sviluppo-web-completo.svg",
+      "visibile": true
+    },
+    {
+      "id": "python-da-zero",
+      "nome": "Python da zero ai progetti",
+      "descrizione": "Le basi di Python e piccoli programmi utili da subito.",
+      "categoria": "sviluppo-software",
+      "icona": "💻",
+      "tipo": "digitale",
+      "prezzo_centesimi": 19700,
+      "descrizione_completa": "Dalle prime righe di codice a script che automatizzano compiti reali: file, tabelle, pagine web.\nInclude esercizi guidati e quattro mini progetti da completare.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/python-da-zero.svg",
+      "visibile": true
+    },
+    {
+      "id": "sql-analisi-dati",
+      "nome": "SQL e analisi dei dati",
+      "descrizione": "Interrogare un database e trasformare i dati in risposte.",
+      "categoria": "sviluppo-software",
+      "icona": "💻",
+      "tipo": "digitale",
+      "prezzo_centesimi": 14700,
+      "descrizione_completa": "Impari a leggere e unire tabelle, filtrare, raggruppare e preparare report.\nInclude un database di esempio con esercizi su casi d'uso tipici di un'azienda.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/sql-analisi-dati.svg",
+      "visibile": true
+    },
+    {
+      "id": "prompt-agenti-ai",
+      "nome": "Prompt e agenti AI per professionisti",
+      "descrizione": "Scrivere istruzioni efficaci e costruire assistenti per il proprio lavoro.",
+      "categoria": "ai-automazione",
+      "icona": "🤖",
+      "tipo": "digitale",
+      "prezzo_centesimi": 24700,
+      "descrizione_completa": "Come strutturare un prompt, dare contesto e verificare le risposte, fino a costruire assistenti per compiti ripetitivi.\nInclude una libreria di prompt per professioni diverse e una guida ai limiti dell'AI.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/prompt-agenti-ai.svg",
+      "visibile": true
+    },
+    {
+      "id": "automazioni-n8n",
+      "nome": "Automazioni con n8n senza programmare",
+      "descrizione": "Collegare le app che usi e far lavorare i flussi al posto tuo.",
+      "categoria": "ai-automazione",
+      "icona": "🤖",
+      "tipo": "digitale",
+      "prezzo_centesimi": 19700,
+      "descrizione_completa": "Costruisci flussi che collegano form, fogli, email e AI: preventivi, avvisi, raccolta di contatti.\nInclude workflow da importare e una scheda per scegliere cosa automatizzare per primo.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/automazioni-n8n.svg",
+      "visibile": true
+    },
+    {
+      "id": "ai-lavoro-quotidiano",
+      "nome": "AI per il lavoro quotidiano",
+      "descrizione": "Scrivere, riassumere e organizzare con l'aiuto dell'AI, senza rischi inutili.",
+      "categoria": "ai-automazione",
+      "icona": "🤖",
+      "tipo": "digitale",
+      "prezzo_centesimi": 14700,
+      "descrizione_completa": "Un corso pratico per usare l'AI nelle attivita' di ogni giorno: email, report, riunioni, ricerche.\nSpiega anche quali dati non condividere e come controllare i risultati.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/ai-lavoro-quotidiano.svg",
+      "visibile": true
+    },
+    {
+      "id": "ecommerce-da-zero",
+      "nome": "E-commerce: aprire un negozio online",
+      "descrizione": "Dalla scelta dei prodotti al primo ordine, con gli aspetti da sapere.",
+      "categoria": "freelance-online",
+      "icona": "🧭",
+      "tipo": "digitale",
+      "prezzo_centesimi": 24700,
+      "descrizione_completa": "Come scegliere cosa vendere, impostare il negozio, descrivere i prodotti, gestire pagamenti, spedizioni e assistenza.\nInclude una checklist degli obblighi da verificare prima di aprire.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/ecommerce-da-zero.svg",
+      "visibile": true
+    },
+    {
+      "id": "freelance-primi-clienti",
+      "nome": "Freelance: trovare i primi clienti",
+      "descrizione": "Offerta, portfolio e contatto: come presentarsi a chi cerca un professionista.",
+      "categoria": "freelance-online",
+      "icona": "🧭",
+      "tipo": "digitale",
+      "prezzo_centesimi": 19700,
+      "descrizione_completa": "Come definire cosa offri, preparare un portfolio, scrivere messaggi di contatto e fare un preventivo chiaro.\nInclude modelli di preventivo e di email da adattare.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/freelance-primi-clienti.svg",
+      "visibile": true
+    },
+    {
+      "id": "copywriting-web",
+      "nome": "Copywriting per il web",
+      "descrizione": "Titoli, testi di vendita e pagine che si leggono fino in fondo.",
+      "categoria": "freelance-online",
+      "icona": "🧭",
+      "tipo": "digitale",
+      "prezzo_centesimi": 17700,
+      "descrizione_completa": "Le regole per scrivere testi chiari e persuasivi: titoli, pagine di vendita, email, annunci.\nIncludi esercizi di riscrittura con commenti e una scheda di controllo finale.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/copywriting-web.svg",
+      "visibile": true
+    },
+    {
+      "id": "partita-iva-forfettaria",
+      "nome": "Partita IVA forfettaria: le basi",
+      "descrizione": "Come funziona il regime forfettario, spiegato in modo semplice.",
+      "categoria": "finanza-personale",
+      "icona": "💶",
+      "tipo": "digitale",
+      "prezzo_centesimi": 14700,
+      "descrizione_completa": "Una guida alle basi del regime forfettario: requisiti, fatture, contributi e scadenze, con esempi.\nE' un corso informativo: per il tuo caso specifico consulta un commercialista.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/partita-iva-forfettaria.svg",
+      "visibile": true
+    },
+    {
+      "id": "budget-personale",
+      "nome": "Budget personale e familiare",
+      "descrizione": "Capire dove vanno i soldi e organizzare le spese mese per mese.",
+      "categoria": "finanza-personale",
+      "icona": "💶",
+      "tipo": "digitale",
+      "prezzo_centesimi": 9700,
+      "descrizione_completa": "Un metodo semplice per tenere sotto controllo entrate e uscite, con fogli di calcolo pronti da usare.\nInclude schede per fissare obiettivi di risparmio realistici.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/budget-personale.svg",
+      "visibile": true
+    },
+    {
+      "id": "educazione-finanziaria",
+      "nome": "Educazione finanziaria di base",
+      "descrizione": "Conti, carte, prestiti e inflazione: i concetti da conoscere.",
+      "categoria": "finanza-personale",
+      "icona": "💶",
+      "tipo": "digitale",
+      "prezzo_centesimi": 7900,
+      "descrizione_completa": "Un corso breve per capire i concetti di base: conto, carte, mutui e prestiti, inflazione, interessi.\nNon da' consigli di investimento: serve a leggere meglio i documenti e le offerte.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/educazione-finanziaria.svg",
+      "visibile": true
+    },
+    {
+      "id": "parlare-in-pubblico",
+      "nome": "Parlare in pubblico",
+      "descrizione": "Preparare un discorso, gestire l'ansia e farsi ascoltare.",
+      "categoria": "crescita-produttivita",
+      "icona": "🎯",
+      "tipo": "digitale",
+      "prezzo_centesimi": 14700,
+      "descrizione_completa": "Come strutturare un intervento, usare voce e pause, rispondere alle domande.\nInclude esercizi da registrare e una scheda di autovalutazione.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/parlare-in-pubblico.svg",
+      "visibile": true
+    },
+    {
+      "id": "produttivita-tempo",
+      "nome": "Produttivita' e gestione del tempo",
+      "descrizione": "Priorita', agenda e abitudini per fare le cose importanti.",
+      "categoria": "crescita-produttivita",
+      "icona": "🎯",
+      "tipo": "digitale",
+      "prezzo_centesimi": 12700,
+      "descrizione_completa": "Impari a scegliere le priorita', pianificare la settimana e ridurre le distrazioni.\nInclude un planner stampabile e un metodo di revisione settimanale.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/produttivita-tempo.svg",
+      "visibile": true
+    },
+    {
+      "id": "metodo-di-studio",
+      "nome": "Metodo di studio efficace",
+      "descrizione": "Studiare meno ore ricordando di piu', con tecniche collaudate.",
+      "categoria": "crescita-produttivita",
+      "icona": "🎯",
+      "tipo": "digitale",
+      "prezzo_centesimi": 9700,
+      "descrizione_completa": "Tecniche di lettura, appunti, ripasso a intervalli e preparazione agli esami.\nUtile a studenti e a chi si forma sul lavoro. Include schede di pianificazione.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/metodo-di-studio.svg",
+      "visibile": true
+    },
+    {
+      "id": "ui-ux-design",
+      "nome": "Design di siti e app (UI/UX)",
+      "descrizione": "Dall'idea allo schermo: ricerca, schemi e prototipo.",
+      "categoria": "design-creativita",
+      "icona": "🎨",
+      "tipo": "digitale",
+      "prezzo_centesimi": 22700,
+      "descrizione_completa": "Il percorso insegna a capire gli utenti, disegnare schemi e creare un prototipo cliccabile.\nSi chiude con un progetto da inserire nel portfolio.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/ui-ux-design.svg",
+      "visibile": true
+    },
+    {
+      "id": "grafica-canva",
+      "nome": "Grafica con Canva per il tuo brand",
+      "descrizione": "Colori, caratteri e modelli per grafiche coerenti, senza essere designer.",
+      "categoria": "design-creativita",
+      "icona": "🎨",
+      "tipo": "digitale",
+      "prezzo_centesimi": 9700,
+      "descrizione_completa": "Come scegliere colori e caratteri, creare modelli per social, menu e presentazioni, e tenere tutto coerente.\nInclude un kit di partenza da personalizzare.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/grafica-canva.svg",
+      "visibile": true
+    },
+    {
+      "id": "foto-video-smartphone",
+      "nome": "Fotografia e video con lo smartphone",
+      "descrizione": "Luce, inquadratura e montaggio per risultati curati con il telefono.",
+      "categoria": "design-creativita",
+      "icona": "🎨",
+      "tipo": "digitale",
+      "prezzo_centesimi": 8700,
+      "descrizione_completa": "Le basi di luce e composizione, le impostazioni utili del telefono e il montaggio semplice dei video.\nInclude esercizi pratici e una guida all'audio.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/foto-video-smartphone.svg",
+      "visibile": true
+    },
+    {
+      "id": "inglese-lavoro",
+      "nome": "Inglese per il lavoro",
+      "descrizione": "Email, riunioni e presentazioni in inglese, con frasi pronte.",
+      "categoria": "lingue",
+      "icona": "🌍",
+      "tipo": "digitale",
+      "prezzo_centesimi": 14700,
+      "descrizione_completa": "Il vocabolario e le frasi per le situazioni di lavoro: email, telefonate, riunioni, presentazioni.\nInclude audio da ripetere e schede di frasi utili. Livello medio.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/inglese-lavoro.svg",
+      "visibile": true
+    },
+    {
+      "id": "spagnolo-da-zero",
+      "nome": "Spagnolo da zero",
+      "descrizione": "Dal primo saluto alle conversazioni di base.",
+      "categoria": "lingue",
+      "icona": "🌍",
+      "tipo": "digitale",
+      "prezzo_centesimi": 11700,
+      "descrizione_completa": "Un corso graduale per capire e parlare lo spagnolo di tutti i giorni.\nInclude audio, esercizi con correzione e schede di vocabolario.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/spagnolo-da-zero.svg",
+      "visibile": true
+    },
+    {
+      "id": "inglese-conversazione",
+      "nome": "Inglese: conversazione",
+      "descrizione": "Parlare di piu' e con meno paura di sbagliare.",
+      "categoria": "lingue",
+      "icona": "🌍",
+      "tipo": "digitale",
+      "prezzo_centesimi": 9700,
+      "descrizione_completa": "Dialoghi realistici da ascoltare e ripetere, con spiegazione delle espressioni piu' usate.\nPensato per chi capisce ma parla poco.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/inglese-conversazione.svg",
+      "visibile": true
+    },
+    {
+      "id": "allenamento-a-casa",
+      "nome": "Allenamento a casa in 12 settimane",
+      "descrizione": "Un programma graduale con poco spazio e poca attrezzatura.",
+      "categoria": "fitness-benessere",
+      "icona": "🏃",
+      "tipo": "digitale",
+      "prezzo_centesimi": 7900,
+      "descrizione_completa": "Dodici settimane di allenamenti progressivi, con video degli esercizi e schede da stampare.\nNon sostituisce il parere del medico: prima di cominciare conviene un controllo se hai dubbi.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/allenamento-a-casa.svg",
+      "visibile": true
+    },
+    {
+      "id": "yoga-principianti",
+      "nome": "Yoga per principianti",
+      "descrizione": "Posizioni di base, respirazione e una pratica breve ogni giorno.",
+      "categoria": "fitness-benessere",
+      "icona": "🏃",
+      "tipo": "digitale",
+      "prezzo_centesimi": 6700,
+      "descrizione_completa": "Lezioni brevi per imparare le posizioni di base e la respirazione, con varianti per ogni livello.\nNon sostituisce il parere del medico.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/yoga-principianti.svg",
+      "visibile": true
+    },
+    {
+      "id": "corsa-principianti",
+      "nome": "Corsa per principianti",
+      "descrizione": "Dai primi minuti di corsa ai 5 km, con un piano graduale.",
+      "categoria": "fitness-benessere",
+      "icona": "🏃",
+      "tipo": "digitale",
+      "prezzo_centesimi": 5900,
+      "descrizione_completa": "Un piano di otto settimane per passare dalla camminata alla corsa continua, con consigli su scarpe, ritmo e recupero.\nNon sostituisce il parere del medico.\nCorso online in pre-ordine: nessun pagamento ora, ti scriviamo quando e' pronto.",
+      "immagine": "assets/img/corsi/corsa-principianti.svg",
+      "visibile": true
+    }
+  ]
 }

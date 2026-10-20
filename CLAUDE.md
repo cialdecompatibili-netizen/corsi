@@ -1,3 +1,6 @@
+# SCUOLA LUMEN (corsi) - 20/10/2026
+Questa repo e' il clone di prodottidigitali riscritto come corsi online REMOTI (brand provvisorio Scuola Lumen). Catalogo PIATTO: 9 categorie in ORDINE DI PROFITTO (business e marketing, sviluppo software, AI, freelance, finanza, crescita, design, lingue, fitness), 27 corsi demo (3 per categoria, dal piu' caro al piu' economico) con copertine SVG in `assets/img/corsi/`. Tutto generato da `claudetemp\rebrand_corsi.py` (dati in `corsi_data.py`, rilanciabile). Palette: blu notte #14213d, blu #2f4cc0, ambra #f5b82e. Pre-ordine senza pagamento (come prodottidigitali). Le sezioni sotto descrivono ancora prodottidigitali: la struttura tecnica (e-commerce, admin, blocchi home) e' identica. Prezzi e testi sono ipotesi da verificare.
+
 # prodottidigitali
 
 Sito Jekyll su GitHub Pages: https://cialdecompatibili-netizen.github.io/prodottidigitali/ (repo cialdecompatibili-netizen/prodottidigitali, cartella Desktop\repository\prodottidigitali). Clone di serverai, da riscrivere come negozio di prodotti digitali.

@@ -1,8 +1,8 @@
 [
-    {
-        "id": "main",
-        "nome": "Contenuto",
-        "enabled": true,
-        "html": "<p>Prodotti Digitali vende template di siti, plugin, fogli Excel, modelli di testi, prompt, workflow n8n e guide, pronti da adattare. Claude, n8n e gli altri software citati appartengono ai rispettivi autori.</p><h2>Categorie</h2><ul><li><a href=\"__BASEURL__/negozio/categoria/template/\">Template siti Jekyll</a></li><li><a href=\"__BASEURL__/negozio/categoria/plugin/\">Moduli e plugin PHP</a></li><li><a href=\"__BASEURL__/negozio/categoria/testi/\">Modelli di testi</a></li><li><a href=\"__BASEURL__/negozio/categoria/excel/\">Fogli Excel pronti</a></li><li><a href=\"__BASEURL__/negozio/categoria/prompt/\">Prompt e skill Claude</a></li><li><a href=\"__BASEURL__/negozio/categoria/n8n/\">Workflow n8n</a></li><li><a href=\"__BASEURL__/negozio/categoria/guide/\">Ebook e guide</a></li></ul><p>Pre-ordina dal negozio o scrivici dalla pagina Contatti.</p>"
-    }
+  {
+    "id": "main",
+    "nome": "Contenuto",
+    "enabled": true,
+    "html": "<p>Scuola Lumen &egrave; una scuola di corsi online: video lezioni, schede ed esercizi da seguire a distanza, al proprio ritmo.</p><h2>Le categorie</h2><ul><li><a href=\"__BASEURL__/negozio/categoria/business-marketing/\">Business e marketing</a></li><li><a href=\"__BASEURL__/negozio/categoria/sviluppo-software/\">Sviluppo software e web</a></li><li><a href=\"__BASEURL__/negozio/categoria/ai-automazione/\">AI e automazione</a></li><li><a href=\"__BASEURL__/negozio/categoria/freelance-online/\">Freelance e lavoro online</a></li><li><a href=\"__BASEURL__/negozio/categoria/finanza-personale/\">Finanza personale</a></li><li><a href=\"__BASEURL__/negozio/categoria/crescita-produttivita/\">Crescita e produttivita'</a></li><li><a href=\"__BASEURL__/negozio/categoria/design-creativita/\">Design e creativita'</a></li><li><a href=\"__BASEURL__/negozio/categoria/lingue/\">Lingue</a></li><li><a href=\"__BASEURL__/negozio/categoria/fitness-benessere/\">Fitness e allenamento</a></li></ul><p>Scegli dal negozio o scrivici dalla pagina Contatti.</p>"
+  }
 ]
